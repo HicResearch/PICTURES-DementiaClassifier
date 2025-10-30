@@ -19,7 +19,8 @@ Doney and J. Douglas Steele.*
 This SVM Pipeline uses SPM and MATLAB. For demonstration purpose, it
 uses publicly available T1 Brain scans from IXI database
 (<https://brain-development.org/ixi-dataset/>) for the entire workflow
-and describes configuration, outputs, and how to run the pipeline.
+and describes configuration, outputs, and how to run the pipeline. This 
+SVM pipeline was developed under the [PICTURES Exemplar-2 Project](https://imageonamission.ac.uk/exemplar-2/).
 
 For any queries regarding the code contact the corresponding author at
 <p.s.reel@dundee.ac.uk>
@@ -35,6 +36,7 @@ For any queries regarding the code contact the corresponding author at
 4.  [Key Parameters](#key-parameters)  
 5.  [Output Summary](#output-summary)
 6.  [Funding](#funding)
+7.  [Licence](#licence)
 
 ------------------------------------------------------------------------
 
@@ -268,3 +270,10 @@ This work was funded by the Medical Research Council (MRC) MICA
 Programme Grant: InterdisciPlInary Collaboration for efficienT and
 effective Use of clinical images in big data health care RESearch:
 PICTURES (MR/S010351/1).
+
+------------------------------------------------------------------------
+# Licence
+
+This code is licenced under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+------------------------------------------------------------------------
