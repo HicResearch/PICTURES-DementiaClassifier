@@ -21,11 +21,6 @@ uses publicly available T1 Brain scans from IXI database
 (<https://brain-development.org/ixi-dataset/>) for the entire workflow
 and describes configuration, outputs, and how to run the pipeline.
 
-This work was funded by the Medical Research Council (MRC) MICA
-Programme Grant: InterdisciPlInary Collaboration for efficienT and
-effective Use of clinical images in big data health care RESearch:
-PICTURES (MR/S010351/1).
-
 For any queries regarding the code contact the corresponding author at
 <p.s.reel@dundee.ac.uk>
 
@@ -39,6 +34,7 @@ For any queries regarding the code contact the corresponding author at
 3.  [Performance Metrics](#performance-metrics)  
 4.  [Key Parameters](#key-parameters)  
 5.  [Output Summary](#output-summary)
+6.  [Funding](#funding)
 
 ------------------------------------------------------------------------
 
@@ -266,3 +262,9 @@ analysis is straightforward.
 - `predictions/` — subject-level predicted labels & decision scores
 
 ------------------------------------------------------------------------
+# Funding
+
+This work was funded by the Medical Research Council (MRC) MICA 
+Programme Grant: InterdisciPlInary Collaboration for efficienT and
+effective Use of clinical images in big data health care RESearch:
+PICTURES (MR/S010351/1).
