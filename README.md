@@ -16,10 +16,9 @@ Reel, Esma Mansouri-Benssassi, Szabolcs Suveges, Muthu Rama Krishnan
 Mookiah, Susan Krueger, Emanuele Trucco, Emily Jefferson, Alexander
 Doney and J. Douglas Steele.*
 
-This SVM Pipeline uses SPM and MATLAB. For demonstration purpose, it
-uses publicly available T1 Brain scans from IXI database
-(<https://brain-development.org/ixi-dataset/>) for the entire workflow
-and describes configuration, outputs, and how to run the pipeline. This 
+This SVM Pipeline uses [SPM](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) and [MATLAB](https://uk.mathworks.com/). For demonstration purpose, it
+uses publicly available T1 Brain scans from [IXI database](https://brain-development.org/ixi-dataset/) 
+for the entire workflow and describes configuration, outputs, and how to run the pipeline. This 
 SVM pipeline was developed under the [PICTURES Exemplar-2 Project](https://imageonamission.ac.uk/exemplar-2/).
 
 For any queries regarding the code contact the corresponding author at
@@ -44,10 +43,10 @@ For any queries regarding the code contact the corresponding author at
 
 ## Software Requirements
 
-- **MATLAB** R2021b or later
-- **SPM12** (Statistical Parametric Mapping toolbox)
-- **Parallel Computing Toolbox** (for distributed jobs)
-- **IXI Dataset** (T1-weighted MRI scans)
+- **[MATLAB](https://uk.mathworks.com/)** R2021b or later
+- **SPM12** ([Statistical Parametric Mapping toolbox](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/))
+- **[Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html)** (for distributed jobs)
+- **[IXI Dataset](https://brain-development.org/ixi-dataset/)** (T1-weighted MRI scans)
 
 ------------------------------------------------------------------------
 
