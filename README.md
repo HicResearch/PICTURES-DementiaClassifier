@@ -102,7 +102,6 @@ The pipeline identifies patients with and without dementia using clinical record
 **Outputs**
 
 - `All_Dementia_patients.csv`  
-- `Final_Dementia_cohort.csv`  
 
 ---
 
@@ -121,7 +120,6 @@ The pipeline identifies patients with and without dementia using clinical record
 **Outputs**
 
 - `All_Non_Dementia_patients.csv`  
-- `Final_Non_Dementia_cohort.csv`  
 
 ---
 ## Data Sources
